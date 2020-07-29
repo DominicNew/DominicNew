@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at Junkshon working on their platform using Django and React
 
-![Junkshon](Images/unnamed.jpg)
+![Junkshon](DominicNew/Images/unnamed.jpg)
 <!--
 **DominicNew/DominicNew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
